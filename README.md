@@ -8,7 +8,7 @@ A Django application for pictures that allows users to upload images for other p
 
 Adlight Akinyi
 
-# Set-up & Installation requirements
+# Set-up/Installation requirements
 
 git clone   https://github.com/AdlightAkinyi/django-photo-gallery.git
 
