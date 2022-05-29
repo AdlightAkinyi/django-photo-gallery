@@ -11,3 +11,5 @@ Adlight Akinyi
 # Set-up & Installation requirements
 
 git clone   https://github.com/AdlightAkinyi/django-photo-gallery.git
+
+cd django-photo-gallery
