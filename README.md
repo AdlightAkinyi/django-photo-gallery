@@ -35,4 +35,7 @@ python
 
 Django 
 
+# Support & Contact details
+adlightakinyi1@gmail.com
+
 
