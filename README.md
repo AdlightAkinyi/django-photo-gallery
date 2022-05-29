@@ -13,3 +13,8 @@ Adlight Akinyi
 git clone   https://github.com/AdlightAkinyi/django-photo-gallery.git
 
 cd django-photo-gallery
+
+python -m venv virtual
+
+
+pip install django
